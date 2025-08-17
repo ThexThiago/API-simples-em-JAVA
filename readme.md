@@ -15,7 +15,7 @@ Para executar a aplicação, você precisa ter o Java 22 ou superior instalado e
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/ThexThiago]
+    git clone [https://github.com/ThexThiago/API-simples-em-JAVA]
     ```
 
 2.  **Navegue até o diretório do projeto:**
